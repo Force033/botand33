@@ -23,16 +23,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/koleksibot/",
+    "homepage": "https://github.com/masrochim/",
     "author": {
         "name": "LordNekell"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/koleksibot/BLACKHATBOT-Md.git"
+        "url": "git+https://github.com/masrochim/Megabot.git"
     },
     "bugs": {
-        "url": "https://github.com/koleksibot/BLACKHATBOT-Md/issues"
+        "url": "https://github.com/masrochim/Megabot.git/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
